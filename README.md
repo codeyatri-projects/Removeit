@@ -1,9 +1,9 @@
-# 🧹 Remove-It — AI Background Remover
+#  Remove-It — AI Background Remover
 
 
 ![WhatsApp Image 2025-10-22 at 19 11 40_7aff9761](https://github.com/user-attachments/assets/8e310aaa-f143-4473-b320-417dfe8c5198)
 
-### ✨ Remove backgrounds instantly using AI (U²Net model)  
+###  Remove backgrounds instantly using AI (U²Net model)  
 Fast, lightweight, and production-ready — powered by **FastAPI**, **rembg**, and **Render**.
 
 ---
@@ -13,7 +13,7 @@ Fast, lightweight, and production-ready — powered by **FastAPI**, **rembg**, a
 
 
 
-## 🚀 Features
+##  Features
 
 - ⚡ **Instant AI background removal** using the **U²Net** model from `rembg`.
 - 🧠 **Fully API-based backend** built with **FastAPI**.
@@ -24,7 +24,7 @@ Fast, lightweight, and production-ready — powered by **FastAPI**, **rembg**, a
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |:------|:------------|
@@ -38,7 +38,7 @@ Fast, lightweight, and production-ready — powered by **FastAPI**, **rembg**, a
 ---
 
 
-🧼 Smart Cache Cleaning System
+ Smart Cache Cleaning System
 
 Render’s free tier often crashes due to excess temporary file storage.
 To solve this, Remove-It includes a background socket-based cleanup service that:
