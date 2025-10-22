@@ -1,6 +1,7 @@
 # 🧹 Remove-It — AI Background Remover
 
-![Remove-It Banner](https://user-images.githubusercontent.com/placeholder/banner.png)
+![WhatsApp Image 2025-10-09 at 23 39 41_31799223](https://github.com/user-attachments/assets/2ea5e9ef-36ca-4cb0-b960-be63d317d160)
+
 
 ### ✨ Remove backgrounds instantly using AI (U²Net model)  
 Fast, lightweight, and production-ready — powered by **FastAPI**, **rembg**, and **Render**.
