@@ -1,7 +1,6 @@
 # 🧹 Remove-It — AI Background Remover
 
-![WhatsApp Image 2025-10-09 at 23 39 41_31799223](https://github.com/user-attachments/assets/2ea5e9ef-36ca-4cb0-b960-be63d317d160)
-
+![WhatsApp Image 2025-10-22 at 19 11 40_7aff9761](https://github.com/user-attachments/assets/8e310aaa-f143-4473-b320-417dfe8c5198)
 
 ### ✨ Remove backgrounds instantly using AI (U²Net model)  
 Fast, lightweight, and production-ready — powered by **FastAPI**, **rembg**, and **Render**.
@@ -12,8 +11,6 @@ Fast, lightweight, and production-ready — powered by **FastAPI**, **rembg**, a
 🔗 **Use it here:** [https://removeit.codeyatri.space](https://removeit.codeyatri.space)
 
 ---
-
-![WhatsApp Image 2025-10-22 at 19 11 40_7aff9761](https://github.com/user-attachments/assets/8e310aaa-f143-4473-b320-417dfe8c5198)
 
 
 
