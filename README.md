@@ -7,9 +7,7 @@ Fast, lightweight, and production-ready — powered by **FastAPI**, **rembg**, a
 
 ---
 
-## 🌐 Live Demo
 🔗 **Use it here:** [https://removeit.codeyatri.space](https://removeit.codeyatri.space)
-
 ---
 
 
