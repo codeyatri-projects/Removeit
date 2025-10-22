@@ -11,7 +11,21 @@ Fast, lightweight, and production-ready — powered by **FastAPI**, **rembg**, a
 🔗 **Use it here:** [https://removeit.codeyatri.space](https://removeit.codeyatri.space)
 ---
 
+##  The Problem 💡
 
+Designers and editors face one of the most repetitive tasks in their workflow — removing backgrounds. Most available tools either charge for every image or compress the quality. For creative teams working daily with assets, that becomes not only costly but frustrating.
+
+That’s exactly the problem we faced within our own design team — spending hours separating humans from backgrounds. So instead of paying endlessly, we decided to build our own solution.
+
+---
+
+## The Solution
+
+Remove-It is a smart, AI-powered human segmentation and background remover built using U²Net — a state-of-the-art deep learning model for object and human segmentation.
+
+With Remove-It, you can upload an image, and the system automatically detects and isolates human subjects — giving you a clean, transparent background in seconds.
+
+---
 
 ##  Features
 
@@ -61,7 +75,13 @@ pip install -r requirements.txt
 # Run the app
 uvicorn main:app --host 0.0.0.0 --port 8000
 
+---
 
-Developed by Codeyatri
+## Team CodeYatri
+A community for students, designers, and developers to learn, build, and ship real projects together.
+
+👉 Visit www.codeyatri.space
+
+📩 For feedback, collaborations, or improvements: hello@codeyatri.space
 
 “A clean image deserves a clean background.”
