@@ -1,6 +1,5 @@
 #  Remove-It — AI Background Remover
 
-
 ![WhatsApp Image 2025-10-22 at 19 11 40_7aff9761](https://github.com/user-attachments/assets/8e310aaa-f143-4473-b320-417dfe8c5198)
 
 ###  Remove backgrounds instantly using AI (U²Net model)  
